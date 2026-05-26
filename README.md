@@ -9,6 +9,7 @@ SEW | Individual vue.js Project
 - The application has several routes.
 - The application uses a store.
 - A (minimalistic) design is applied.
+- The application differs from the exercises.
 
 ## Skill(s)
 - [Individual implementation on of a Single-Page-Application with vue.js](https://my.skilldisplay.eu/en/skill/2994/0)  
